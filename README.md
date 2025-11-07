@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dara Neb
+# 👋 Hi, I’m Dara
 
 **Software Engineer | AI Learner | React Native Developer**  
 I build apps that feel smart and fast — powered by React Native, AI, and curiosity.  
